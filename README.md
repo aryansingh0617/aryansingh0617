@@ -2,34 +2,69 @@
 
 Computer Science & Data Science student at **ABES Engineering College** · First Year
 
-Interested in applied AI/ML, full-stack development, and building things that solve real problems. Started programming in Class 8 — been hooked since.
+Focused on AI/ML, AI backend systems, and AI infrastructure engineering. Interested in building scalable AI-powered applications, deploying production-ready AI systems, and solving real-world problems through applied AI.
+
+Currently learning and building with backend engineering, AI integration, APIs, deployment workflows, and modern AI infrastructure tools.
 
 ---
 
-### Education & Credentials
+## 🎓 Education & Credentials
 
-- 🎓 B.Tech — Computer Science & Data Science, ABES Engineering College (2024–present)
-- 📊 AI & Data Science Certification — **IIT Madras**
-
----
-
-### Languages & Frameworks
- Python, Java, C++
- JavaScript / TypeScript
- React, Node.js
-
+- B.Tech — Computer Science & Data Science, ABES Engineering College (2025–Present)
+- AI & Data Science Certification — **IIT Madras**
 
 ---
 
-### Featured Project
+## ⚙️ Tech Stack
 
-**[🌾 AgriSentinel](https://github.com/aryansingh0617/AgriSentinel)** — AI + blockchain agriculture intelligence platform. Predicts crop yield, detects disease risk, and generates a verifiable AgriScore for farms using ML models and smart contracts.
+### Languages
+- Python
+- C++
 
-🔗 [Live Demo](https://agrisentinel-nu.vercel.app/)
+### AI / ML
+- Scikit-learn
+- NumPy
+- Pandas
+
+### Backend & Infrastructure
+- FastAPI *(learning)*
+- REST APIs
+- Git & GitHub
+- Docker *(learning)*
+- PostgreSQL *(learning)*
+- Linux basics
 
 ---
 
-### Connect
+## 🚀 Featured Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-singh-056b37383/)
-[![GitHub](https://img.shields.io/badge/GitHub-aryansingh0617-181717?style=flat-square&logo=github)](https://github.com/aryansingh0617)
+### 🌾 AgriSentinel
+AI + blockchain agriculture intelligence platform focused on predictive analytics and farm verification systems.
+
+Features:
+- Crop yield prediction
+- Disease risk analysis
+- AI-generated AgriScore
+- Blockchain-backed farm verification
+- Real-time analytics dashboard
+
+🔗 Live Demo: https://agrisentinel-nu.vercel.app/
+
+🔗 Repository: https://github.com/aryansingh0617/AgriSentinel
+
+---
+
+## 📈 Current Focus
+
+- Building production-style AI backend systems
+- Learning AI infrastructure & deployment workflows
+- Strengthening DSA and system design fundamentals
+- Exploring scalable AI application architecture
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/aryan-singh-056b37383/)
+
+[GitHub](https://github.com/aryansingh0617)
